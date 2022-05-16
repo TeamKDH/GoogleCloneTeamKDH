@@ -1,9 +1,15 @@
 /* --------- Defaults ---------*/
 
-body, ul, li, img, p, h1, h2, h3, h4, h5, h6, hr {
+ ul, li, img, p, h1, h2, h3, h4, h5, h6, hr {
     margin: 0;
     padding: 0;
     font-family: sans-serif;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: url("bgcs.jpg");
 }
 li {
     list-style-type: none;
