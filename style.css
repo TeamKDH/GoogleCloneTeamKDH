@@ -1,7 +1,11 @@
 /* --------- Defaults ---------*/
 
-body, ul, li, img, p, h1, h2, h3, h4, h5, h6, hr {
+ul, li, img, p, h1, h2, h3, h4, h5, h6, hr {
     margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+ body{ margin: 0;
     padding: 0;
     font-family: sans-serif;
     background-color: yellow;
@@ -122,8 +126,11 @@ footer {
     
 }
 .footer1 {
-    border-top: 1px solid #ddd;
-    border-bottom: 1px solid #ddd;
+   /* border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;*/
+    border-top: 1px solid red;
+    border-bottom: 1px solid pink;
+    
 }
 .footer1  ul {
     display: flex;
