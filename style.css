@@ -125,21 +125,23 @@ footer {
     width: 100%;
     position: fixed;
     bottom: 0;
+    color: black;
+    text: black;
 }
 .footer1{
      padding: 20px 1.5em;  
-     background-color: yellow;
+     background-color: gray;
 }
 .footer2 {
     /*background: #f7f7f7;*/
-    background: white
+    background: gray
     padding: 20px 1.5em;   
 }
 .footer1 {
    /* border-top: 1px solid #ddd;
     border-bottom: 1px solid #ddd;*/
-    border-top: 1px solid orange;
-    border-bottom: 1px solid green;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
     
 }
 .footer1  ul {
