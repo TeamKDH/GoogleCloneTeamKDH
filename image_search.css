@@ -29,6 +29,7 @@ a:hover {
 header {
     display: flex;
     height: 10vh;
+ background-color: white;
 }
 header a {
     color: #333;
