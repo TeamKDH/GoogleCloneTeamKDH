@@ -121,16 +121,20 @@ footer {
     position: fixed;
     bottom: 0;
 }
-.footer1, .footer2 {
-    background: #f7f7f7;
-    padding: 20px 1.5em;
-    
+.footer1{
+    background: gray;
+    padding: 20px 1.5em;  
+}
+.footer2 {
+    /*background: #f7f7f7;*/
+    background: pink
+    padding: 20px 1.5em;   
 }
 .footer1 {
    /* border-top: 1px solid #ddd;
     border-bottom: 1px solid #ddd;*/
     border-top: 1px solid red;
-    border-bottom: 1px solid pink;
+    border-bottom: 1px solid red;
     
 }
 .footer1  ul {
