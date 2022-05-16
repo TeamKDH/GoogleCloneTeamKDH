@@ -85,7 +85,8 @@ section {
     justify-content: center;
 }
 .search_buttons input {
-    color: #5F6368;
+    /*color: #5F6368;*/
+    color: red;
     border: 1px solid #f2f2f2;
     margin: 11px 4px;
     padding: 0 16px;   
