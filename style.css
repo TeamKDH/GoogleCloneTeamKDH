@@ -48,8 +48,9 @@ header  ul {
 
 section {
     height: 75vh;
-    background-image: url("bgcsb.jpeg");
-     /*background-color: pink;*/
+    /*background-image: url("bgcsb.jpeg");
+     background-color: pink;*/
+    background-image: url("dj.jpg");
 }
 
 /* -------- Google Image ------- */
@@ -127,6 +128,7 @@ footer {
 }
 .footer1{
      padding: 20px 1.5em;  
+     background-color: yellow;
 }
 .footer2 {
     /*background: #f7f7f7;*/
