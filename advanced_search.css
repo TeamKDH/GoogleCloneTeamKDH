@@ -73,7 +73,7 @@ section {
     justify-items: stretch;
 }
 h2 {
-    color: blue;
+    color: red;
     size: 18px;
     font-weight: 400;
     padding: 30px 0;
@@ -111,13 +111,13 @@ input {
     justify-self: end;
 }
 .button > input { 
-    color: #eee;
-    border: 2px solid yellow;
+    color: black;
+    border: 2px solid green;
     line-height: 27px;
     height: 36px;
     cursor: pointer;
     border-radius: 3px;
-    background-color: #4d90fe;
+    background-color: yellow;
     width: 120px;
     height: 30px;
 }
