@@ -55,8 +55,7 @@ header #back_to_main {
 section {
     height: 75vh;
     padding: 0 40px;
-    background-image: url("bgcsb.jpeg");
-    color: white;
+    color: black;
 }
 .container form {
     display: grid;
@@ -73,8 +72,8 @@ section {
     justify-items: stretch;
 }
 h2 {
-    color: white;
-    font-size: 18px;
+    color: black;
+    size: 18px;
     font-weight: 400;
     padding: 30px 0;
     border-bottom: 1px solid #eee;
@@ -112,7 +111,7 @@ input {
 }
 .button > input { 
     color: #eee;
-    border: 1px solid red;
+    border: 1px solid yellow;
     line-height: 27px;
     height: 36px;
     cursor: pointer;
@@ -132,7 +131,7 @@ footer {
     bottom: 0;
     color: black;
 }
-/*.footer1, .footer2 {
+.footer1, .footer2 {
     background: #f1f1f1;
     padding: 20px 1.5em;
     color: black;
@@ -144,11 +143,6 @@ footer {
 .footer1  ul {
     display: flex;
     align-items: center;
-}*/
-.footer2 {
-    background: #f1f1f1;
-    padding: 20px 1.5em;
-    color: black;
 }
 .footer2  ul {
     display: flex;
