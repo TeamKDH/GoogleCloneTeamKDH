@@ -63,7 +63,7 @@ section {
     padding-top: 109px; 
 }
 .image_container span {
-    color: #4285f4;
+    color: yellow;
     margin-left: -50px;
     align-self: flex-end;
     font-size: 16px;
@@ -100,8 +100,8 @@ section {
     justify-content: center;
 }
 .search_buttons input {
-    color: green;
-    border: 1px solid #f2f2f2;
+    color: yellow;
+    border: 1px solid red;
     margin: 11px 4px;
     padding: 0 16px;   
     line-height: 27px;
@@ -119,7 +119,7 @@ section {
 p {
     margin-top: 15px;
     font-size: 13px;
-    text-align: center;
+    text-align: center; 
 }
 
 /* ------------ Footer -------- */
