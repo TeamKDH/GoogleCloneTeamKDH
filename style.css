@@ -19,11 +19,12 @@ li {
 }
 a, i {
     text-decoration: none;
-    color: black;
+    color: red;
     font-size: 13px;
 }
 a:hover {
     text-decoration: underline;
+    color: blue;
 }
 
 /* --------- Header --------- */
@@ -47,7 +48,7 @@ header  ul {
 /* --------- Main ------- */
 
 section {
-    height: 80vh;
+    height: 85vh;
     /*background-image: url("bgcsb.jpeg");
      background-color: pink;*/
     
@@ -126,15 +127,11 @@ footer {
     position: fixed;
     bottom: 0;
     color: black;
+    height: 10vh;
 }
-.footer1{
-     /*padding: 20px 1.5em;*/  
+.footer1,.footer2 {
+     padding: 20px 1.5em;  
      background-color: #f1f1f1;
-}
-.footer2 {
-    /*background: #f7f7f7;*/
-    background: #f1f1f1;
-    /*padding: 20px 1.5em;*/
 }
 .footer1 {
    /* border-top: 1px solid #ddd;
