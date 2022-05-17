@@ -48,7 +48,7 @@ header  ul {
 /* --------- Main ------- */
 
 section {
-    height: 85vh;
+    height: 75vh;
     /*background-image: url("bgcsb.jpeg");
      background-color: pink;*/
     
@@ -100,7 +100,7 @@ section {
     /*color: #5F6368;*/
     color: red;
     /*border: 1px solid #f2f2f2;*/
-    border: 1.5px solid red;
+    border: 1.5px solid #222;
     margin: 11px 4px;
     padding: 0 16px;   
     line-height: 27px;
@@ -110,7 +110,7 @@ section {
 }
 
 .search_buttons > input:hover {
-    color: #222;
+    color: red;
     border: 1px solid #ccc;
     box-shadow: 0 0 1px rgba(0,0,0, 0.2);
 }
@@ -138,6 +138,7 @@ footer {
     border-bottom: 1px solid #ddd;*/
     border-top: 1px solid black;
     border-bottom: 1px solid black;
+    height: 5vh;
     
 }
 .footer1  ul {
