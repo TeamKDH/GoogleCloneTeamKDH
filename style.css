@@ -19,7 +19,7 @@ li {
 }
 a, i {
     text-decoration: none;
-    color: #888;
+    color: black;
     font-size: 13px;
 }
 a:hover {
@@ -33,7 +33,7 @@ header {
     height: 10vh;
 }
 header a {
-    color: #333;
+    color: black;
 }
 header  ul {
     display: flex;
@@ -47,7 +47,7 @@ header  ul {
 /* --------- Main ------- */
 
 section {
-    height: 75vh;
+    height: 80vh;
     /*background-image: url("bgcsb.jpeg");
      background-color: pink;*/
     
@@ -125,17 +125,16 @@ footer {
     width: 100%;
     position: fixed;
     bottom: 0;
+    color: black;
 }
 .footer1{
      /*padding: 20px 1.5em;*/  
      background-color: #f1f1f1;
-    text: black;
 }
 .footer2 {
     /*background: #f7f7f7;*/
-    background: #f1f1f1
-    /*padding: 20px 1.5em;*/ 
-    text: black;
+    background: #f1f1f1;
+    /*padding: 20px 1.5em;*/
 }
 .footer1 {
    /* border-top: 1px solid #ddd;
